@@ -1,0 +1,81 @@
+@font-face{
+
+font-family: 'Exo2 Bold';
+
+src: url('../fonts/Exo2.0-Bold.otf');
+
+font-weight: normal;
+
+font-style: normal;
+}
+@font-face{
+
+font-family: 'Exo2 Extra Medium';
+
+src: url('../fonts/Exo2.0-Medium.otf');
+
+font-weight: normal;
+
+font-style: normal;
+}
+@font-face{
+
+font-family: 'Exo2 Extra Bold';
+
+src: url('../fonts/9840.otf');
+
+font-weight: normal;
+
+font-style: normal;
+}
+@font-face{
+
+font-family: 'Roboto Light';
+
+src: url('../fonts/3962.ttf');
+
+font-weight: normal;
+
+font-style: normal;
+}
+
+@font-face{
+
+font-family: 'Roboto Regular';
+
+src: url('../fonts/3966.ttf');
+
+font-weight: normal;
+
+font-style: normal;
+}
+@font-face{
+
+font-family: 'Roboto Bold';
+
+src: url('../fonts/3955.ttf');
+
+font-weight: normal;
+
+font-style: normal;
+}
+@font-face{
+
+font-family: 'Gotham Pro Black';
+
+src: url('../fonts/10829.otf');
+
+font-weight: normal;
+
+font-style: normal;
+}
+@font-face{
+
+font-family: 'Gotham Pro';
+
+src: url('../fonts/10178.otf');
+
+font-weight: normal;
+
+font-style: normal;
+}
